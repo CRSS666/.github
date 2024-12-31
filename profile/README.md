@@ -1,34 +1,28 @@
-# CRSS
-Welcome to Clyde's Real Survival SMP (CRSS)!
-
-This is a server made by Blurryface, hosted by TheClashFruit, played by Devin, and sponsored by TheClashFruit's Real Hosting Company Limited Liability Company (TCFRHCLLC) and Pridecraft Studios!
-
 # Information
-This is CRSS, a server hosted by Blurryface which updates every 1st of the month, ever since beta 1.0.
 
-We've been doing this for a good while, and our server has many structures and has had many players.
+Welcome to Clyde's Real Survival SMP, CRSS for short. We are a small SMP server that updates to every version starting from b1.0 on the 1st of every month. We have a small community of players that are mostly very friendly and welcoming to new players. We have a few rules that you should follow to make the server a better place for everyone, you can find them at the rules section below.
 
-It currently has 3 nations, PSF, DRR and CNK, each one with unique builds and terrain.
+As of 30/12/2024, the server has reached the latest version of Minecraft, which kind of kills its twist. The server will remain open until Clash or Oracle decide to nuke it, and there is a secondary server called CRSS2, which will stop updating at b1.7.3 if you're into it. CRSS2 info will be added to the website sometime in the future.
 
-We have an Youtube channel where we post some bits of our server, you can stay tuned to it to get to know more about us.
-
-The seed used in the world is the same seed the first Mian Menu Panorama used, and a pack with a panorama from the area which we built over, on the original coordinates, is due to be released soon™.
-
-Stay tuned to our Modrinth to download it!
+The server is built on the idea of nations, featuring 0 nations so far, with the oldest being the Republic of Panorama. These nations are scattered around the map, with some being more active than others. You can be sure to find a nation that fits your playstyle, if not you can just start your own!
 
 ## Rules
 
-- The usage of modified clients that gives unfair advantage to players is not permitted. Even if you only use certain cheats, such as FullBright and InvMove, you'll still get banned. **TL;DR Do not cheat.**
-- Do not modify (or destroy) other players' constructions, or take their items, without their permission. **TL;DR Do not grief or steal.**
-- - The only exceptions to the second rule is if you're taking over something, such as a government.
-This has happened, for example, to the Panorama Socialist Federation, previously known as "Republic of Panorama".
-You're free to do any modifications to whatever, if it fits your government, and the other players approve of that take over.
-If they don't approve of it, your government may get re-taken over, and any changes may be undone by players.
-**TL;DR You "can" grief if you take a government over and need to do changes**
+1. The use of modified clients that give an unfair advantage to players, such as hacked clients, is not permitted.
+  - You are not allowed to use them even for their legitimate features, such as a "fullbright" option.
+  - If admins suspect you are hacking you will be immediately banned.
+2. Do not modify or destroy (grief) other player's constructions without their consent, or steal any of their items.
+  - You are allowed to visit any build, as long as you don't take anything, and if you do you pay them back.
+  - You should ask permission in the discord or the in-game chat before modifying builds.
+3. Follow the laws of the nations you are in to avoid issues with other players and making the server not fun to play.
+  - If you feel the laws are too vague, feel free to ask the people in charge of them what they mean with something, and feel free to contribute to them. Complaining that they don't make sense won't get you anywhere.
+  - Breaking laws won't necessarily get you banned, the nation you are in will take measures and punish you for your actions as they see fit.
+4. Do not attempt to make nations where the territory is already owned by another nation.
+  - You can make it near the borders of a nation but never inside one, you can't just take existing territory as your own.
+  - Other nations are free to claim more territory whenever they feel like it, as long as it doesn't take other nations' territory with it.
 
-***Failing to follow these rules will result in a ban.***
-[CRSS World Map](https://crss.blurryface.xyz/map)
+[CRSS World Map](https://map.crss.cc)
 
-*Copyright © 2024 CRSS*
+*Copyright © 2023 - 2025 CRSS*
 
-Brought to by PrideCraft Studios, CustardMC, LoopMC, ~~Devin~~, and TheClashFruit's Real Hosting Company!
+Brought to you by Pridecraft Studios, LoopMC, ~~Devin~~, and TheClashFruit's Real Hosting Company!
