@@ -1,20 +1,18 @@
 # CRSS
+
 Welcome to Clyde's Real Survival SMP (CRSS)!
 
-This is a server made by Blurryface, hosted by TheClashFruit, played by Devin, and sponsored by TheClashFruit's Real Hosting Company Limited Liability Company (TCFRHCLLC) and Pridecraft Studios!
-
 # Information
-This is CRSS, a server hosted by Blurryface which updates every 1st of the month, ever since beta 1.0.
+
+This is CRSS, a server created by [Blurry](https://blurry.gay). The server's twist is that it started on [b1.0](https://minecraft.wiki/w/b1.0) and updated all the way to [1.21.8](https://minecraft.wiki/w/1.21.8) on the start of each month, or more recently, when new versions get supported by the server-side mods we use.
 
 We've been doing this for a good while, and our server has many structures and has had many players.
 
-It currently has 3 nations, PSF, DRR and CNK, each one with unique builds and terrain.
+It currently has 3 main nations, ROP, TOA and CHK, each one with unique styles and terrain.
 
-We have an Youtube channel where we post some bits of our server, you can stay tuned to it to get to know more about us.
+We have an [Youtube channel](https://yt.crss.cc) where we post content from our server. You can subscribe to it to stay tuned with CRSS content and new episodes of Quartz News Network.
 
-The seed used in the world is the same seed the first Mian Menu Panorama used, and a pack with a panorama from the area which we built over, on the original coordinates, is due to be released soon™.
-
-Stay tuned to our Modrinth to download it!
+The seed used in the world is the same seed the first Main Menu Panorama used, and a pack with a panorama from the area which we built over, on the original coordinates.
 
 ## Rules
 
@@ -27,8 +25,6 @@ If they don't approve of it, your government may get re-taken over, and any chan
 **TL;DR You "can" grief if you take a government over and need to do changes**
 
 ***Failing to follow these rules will result in a ban.***
-[CRSS World Map](https://crss.blurryface.xyz/map)
+[CRSS World Map](https://crss.cc/map)
 
-*Copyright © 2024 CRSS*
-
-Brought to by PrideCraft Studios, CustardMC, LoopMC, ~~Devin~~, and TheClashFruit's Real Hosting Company!
+*Copyright © 2023 - 2025 CRSS*
