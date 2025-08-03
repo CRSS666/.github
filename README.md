@@ -16,15 +16,21 @@ The seed used in the world is the same seed the first Main Menu Panorama used, a
 
 ## Rules
 
-- The usage of modified clients that gives unfair advantage to players is not permitted. Even if you only use certain cheats, such as FullBright and InvMove, you'll still get banned. **TL;DR Do not cheat.**
-- Do not modify (or destroy) other players' constructions, or take their items, without their permission. **TL;DR Do not grief or steal.**
-- - The only exceptions to the second rule is if you're taking over something, such as a government.
-This has happened, for example, to the Panorama Socialist Federation, previously known as "Republic of Panorama".
-You're free to do any modifications to whatever, if it fits your government, and the other players approve of that take over.
-If they don't approve of it, your government may get re-taken over, and any changes may be undone by players.
-**TL;DR You "can" grief if you take a government over and need to do changes**
+1. The use of modified clients that give an unfair advantage to players, such as hacked clients, is not permitted.
+    - You are not allowed to use them even for their legitimate features, such as a "fullbright" option.
+    - If admins suspect you are hacking you will be immediately banned.
+2. Do not modify or destroy (grief) other player's constructions without their consent, or steal any of their items.
+    - You are allowed to visit any build, as long as you don't take anything, and if you do you pay them back.
+    - You should ask permission in the discord or the in-game chat before modifying builds.
+3. Follow the laws of the nations you are in to avoid issues with other players and making the server not fun to play.
+    - If you feel the laws are too vague, feel free to ask the people in charge of them what they mean with something, and feel free to contribute to them. Complaining that they don't make sense won't get you anywhere.
+    - Breaking laws won't necessarily get you banned, the nation you are in will take measures and punish you for your actions as they see fit.
+4. Do not attempt to make nations where the territory is already owned by another nation.
+You can make it near the borders of a nation but never inside one, you can't just take existing territory as your own.
+    - Other nations are free to claim more territory whenever they feel like it, as long as it doesn't take other nations' territory with it.
 
-***Failing to follow these rules will result in a ban.***
+***Failing to follow these rules may result in a ban.***
+
 [CRSS World Map](https://crss.cc/map)
 
 *Copyright © 2023 - 2025 CRSS*
