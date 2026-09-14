@@ -1,6 +1,6 @@
 # Information
 
-Welcome to Clyde's Real Survival SMP, CRSS for short. The  main server was created by [Blurry](https://blurry.gay). The main server's twist is that it started on [b1.0](https://minecraft.wiki/w/b1.0) and updated all the way to [1.21.8](https://minecraft.wiki/w/1.21.8) on the start of each month, or more recently, when new versions get supported by the server-side mods we use. We have a few rules that you should follow to make the server a better place for everyone, you can find them at the rules section below.
+Welcome to Clyde's Real Survival SMP, CRSS for short. The  main server was created by [Blurry](https://blurry.gay). The main server's twist is that it started on [b1.0](https://minecraft.wiki/w/b1.0) and updated all the way to [26.3](https://minecraft.wiki/w/Java_Edition_26.3) on the start of each month, or more recently, when new versions get supported by the server-side mods we use. We have a few rules that you should follow to make the server a better place for everyone, you can find them at the rules section below.
 
 We've been doing this for a good while, and our server has many structures and has had many players.
 
@@ -62,9 +62,9 @@ Here's general information for everything CRSS!
     - `crss.cc`
     - `crssi.cc`
 - Version:
-    - 1.21.8
+    - 26.3
 - Age
-    - ~2.8 Years Old
+    - ~3.5 Years Old
 
 ## CRSS 3 (Beta Server)
 
@@ -78,7 +78,7 @@ Here's general information for everything CRSS!
 - Version:
     - b1.7 - b1.7.3
 - Age
-    - ~6 Months Old
+    - ~1.5 Years Old
 
 ## FAQ
 
@@ -95,4 +95,4 @@ Here's general information for everything CRSS!
 
 We aim to be a friendly and nice place to stay at! Remember to have fun. If you make people not want to play, we're gonna make you be unable to play :3c /silly /srs
 
-*Copyright © 2023 - 2025 CRSS*
+*Copyright © 2023 - 2026 CRSS*
